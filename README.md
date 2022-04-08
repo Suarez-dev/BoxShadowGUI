@@ -2,4 +2,4 @@
 
 Here you can customize your box-shadow of css.
 
-https://xein-dev.github.io/BoxShadowGUI/
+https://Suarez-dev.github.io/BoxShadowGUI/
